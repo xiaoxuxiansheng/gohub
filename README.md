@@ -6,11 +6,11 @@
 </p>
 
 ## 🐧 朋友，你可以在这里找到我
-<a href="https://www.zhihu.com/people/xu-xian-sheng-80-10">知乎博客主页：小徐先生1212</a> <br/><br/>
-<img src="https://github.com/xiaoxuxiansheng/gohub/blob/main/img/erweima.png" height="160px/"><br/><br/>
+<img src="https://github.com/xiaoxuxiansheng/gohub/blob/main/img/erweima.png" height="135px/"><br/><br/>
 微信公众号：小徐先生的编程世界
 <img src="https://github.com/xiaoxuxiansheng/gohub/blob/main/img/bilibili.png" height="160px/"><br/><br/>
 <a href="https://space.bilibili.com/317473362?spm_id_from=333.1007.0.0">b站视频解说：小徐先生1212</a> <br/><br/>
+<a href="https://www.zhihu.com/people/xu-xian-sheng-80-10">知乎博客主页：小徐先生1212</a> <br/><br/>
 
 ## 💡 学习之路思维导图（带博客/视频链接）
 <img src="https://github.com/xiaoxuxiansheng/gohub/blob/main/img/zhuji.png" height="400px/"><br/><br/>
