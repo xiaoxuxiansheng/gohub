@@ -73,5 +73,5 @@
 ## 📖 致力打造免费开放的go知识星球
 <a href="https://space.bilibili.com/317473362?spm_id_from=333.1007.0.0">b站视频解说：小徐先生1212</a> <br/><br/>
 <a href="https://www.zhihu.com/people/xu-xian-sheng-80-10">知乎博客主页：小徐先生1212</a> <br/><br/>
-<img src="https://github.com/xiaoxuxiansheng/gohub/blob/main/img/erweima.png" height="100px/"><br/><br/>
+<img src="https://github.com/xiaoxuxiansheng/gohub/blob/main/img/erweima.png" height="160px/"><br/><br/>
 微信公众号：小徐先生的编程世界
