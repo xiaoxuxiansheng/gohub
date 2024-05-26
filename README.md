@@ -1,12 +1,12 @@
 # gohub
 <p align="center">
 <img src="https://github.com/xiaoxuxiansheng/gohub/blob/main/img/fengmian.png" height="400px/"><br/><br/>
-<b>关于go学习进阶之路的个人心得分享</b>
+<b>致力打造免费开放的go知识星球</b>
 <br/><br/>
 </p>
 
 ## 📚 我的精选文章
-<b>Go 基础知识专题</b>
+<b>Go 基础知识专题</b><br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247483677&idx=1&sn=d1c0e52b1fd31932867ec9b1d00f4ec2">go context底层原理</a> <br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247483770&idx=1&sn=fa999e22d5de4624544488562d6f799d">go channel底层原理</a> <br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247483797&idx=1&sn=34274d44bced0835ea302376a137219b">sync.Mutex 底层原理</a> <br/><br/>
@@ -20,7 +20,7 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484057&idx=1&sn=50e57108f736bc47137ac57dfb643893">go io 多路复用之 epoll</a> <br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484727&idx=1&sn=a05080a9494438c0fa57c92b9f159d55">go sql 标准库源码导读</a> <br/><br/>
 
-<b>Go 工程框架专题</b>
+<b>Go 工程框架专题</b><br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484076&idx=1&sn=9492d326c820625700345a881b58a849">gin框架原理与源码解析</a> <br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484777&idx=1&sn=2a40893ce23b44b2d559ca88455b0a29">gorm框架原理与源码解析</a> <br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484144&idx=1&sn=5e60c1e17d7c905c3e92fa9774e0331c">grpc-go服务端篇</a> <br/><br/>
@@ -29,7 +29,7 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484966&idx=1&sn=9b1e6195c4e068b0b59b021ee59e65b6">etcd 存储引擎 boltdb 源码解析</a> <br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484810&idx=1&sn=57027a35e225004fe27a5dccc982d193">go 开源 mq——nsq 原理与源码解析</a> <br/><br/>
 
-<b>Go 应用实战专题</b>
+<b>Go 应用实战专题</b><br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484313&idx=1&sn=905342d3fc1cdaf845a62a140bd5247e">go 实现分布式锁技术攻略</a> <br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247485070&idx=1&sn=e6fc425dee04746648dfb0bc4c3b2313">基于 go 手写简易版 redis</a> <br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484204&idx=1&sn=54817591aa44359cde9b1b88d386b31b">基于 go 实现跳表 skiplist</a> <br/><br/>
@@ -42,7 +42,7 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484714&idx=1&sn=dc5275ca57e4607bf6373b6cfaf9b552">基于 go 实现时间轮</a> <br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484876&idx=1&sn=8514ad4dc0cc63bc5d193a194e81d7b6">基于 go 实现 lsm 树</a> <br/><br/>
 
-<b>Go 设计模式专题</b>
+<b>Go 设计模式专题</b><br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484352&idx=1&sn=004f674dcd07be8b87e76ab18a768666">go 设计模式之单例模式</a> <br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484392&idx=1&sn=9471c3c01742a3776b6ea9f285dea759">go 设计模式之工厂模式</a> <br/><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484405&idx=1&sn=ef9af767b617aca93bfaa9d01d6076c9">go 设计模式之观察者模式</a> <br/><br/>
@@ -65,6 +65,7 @@
 ## 💡 学习之路思维导图（带博客/视频链接）
 <img src="https://github.com/xiaoxuxiansheng/gohub/blob/main/img/zhuji.png" height="400px/"><br/><br/>
 <b>Golang筑基之路（文件见仓库根目录）</b>
+<br/><br/>
 <img src="https://github.com/xiaoxuxiansheng/gohub/blob/main/img/jiedan.png" height="400px/"><br/><br/>
 <b>Golang结丹之路（文件见仓库根目录）</b>
 
@@ -72,5 +73,5 @@
 ## 📖 致力打造免费开放的go知识星球
 <a href="https://space.bilibili.com/317473362?spm_id_from=333.1007.0.0">b站视频解说：小徐先生1212</a> <br/><br/>
 <a href="https://www.zhihu.com/people/xu-xian-sheng-80-10">知乎博客主页：小徐先生1212</a> <br/><br/>
-<img src="https://github.com/xiaoxuxiansheng/gohub/blob/main/img/erweima.png" height="250px/"><br/><br/>
+<img src="https://github.com/xiaoxuxiansheng/gohub/blob/main/img/erweima.png" height="100px/"><br/><br/>
 微信公众号：小徐先生的编程世界
