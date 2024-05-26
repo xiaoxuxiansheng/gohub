@@ -1,7 +1,7 @@
 # gohub
 <p align="center">
 <img src="https://github.com/xiaoxuxiansheng/gohub/blob/main/img/fengmian.png" height="400px/"><br/><br/>
-<b>致力打造免费开放的go知识星球</b>
+<b>gohub: 致力打造免费开放的go知识星球</b>
 <br/><br/>
 </p>
 
