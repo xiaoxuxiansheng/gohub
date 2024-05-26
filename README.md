@@ -70,7 +70,7 @@
 <b>Golang结丹之路（文件见仓库根目录）</b>
 
 
-## 📖 致力打造免费开放的go知识星球
+## 🐧 朋友，你可以在这里找到我
 <a href="https://space.bilibili.com/317473362?spm_id_from=333.1007.0.0">b站视频解说：小徐先生1212</a> <br/><br/>
 <a href="https://www.zhihu.com/people/xu-xian-sheng-80-10">知乎博客主页：小徐先生1212</a> <br/><br/>
 <img src="https://github.com/xiaoxuxiansheng/gohub/blob/main/img/erweima.png" height="160px/"><br/><br/>
